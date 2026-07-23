@@ -90,18 +90,24 @@ the project title is called blog app it is created to practice react concepts an
 
 # Screenshots
 
-### Home Page
+## Home Page
 
 <img src="src/screenshots/home.png" width="800"/>
 
-### Blog Details Page
+## Blog Details Page
 
 <img src="src/screenshots/blogdetail.png" width="800"/>
 
-### Bookmarks Page
+## Bookmarks Page
 
 <img src="src/screenshots/bookmark.png" width="800"/>
 
-### Create Post Page
+## Create Post Page
 
 <img src="src/screenshots/createpost.png" width="800"/>
+
+## Live Demo
+
+You can view the deployed application here:
+
+https://elham-blog-app.netlify.app/
