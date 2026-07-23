@@ -22,8 +22,6 @@ the project title is called blog app it is created to practice react concepts an
     - clicking a post opens a details page
     - includes a button to create a new post
 
-    ![Home Page] (./screenshots/home.png)
-
 2.  BLOG Dtails page
     this page displays information about a single page post.
     - gets the post id from the URL by useparams()
@@ -32,8 +30,6 @@ the project title is called blog app it is created to practice react concepts an
     - display comments related to the post from API (https://dummyjson.com/comments/post/:id)
     - includes bookmark functionality
     - includes back buuton that goes back to home page
-
-    ![Blog detail Page] (./screenshots/blog dtaile.png)
 
 3.  Bookmark system
     it uses jotai for global state management.
@@ -46,15 +42,11 @@ the project title is called blog app it is created to practice react concepts an
       how it works??
       click bookmark button -> update jotai atom -> bookmark recieve data -> display saved post
 
-      ![Bookmark  Page] (./screenshots/bookmark.png)
-
 4.  Create post page
     allows a user to create a new blog post.
     - form with title and content
     - prevents empty title
     - redirect back to home after submitting
-
-![create post Page] (./screenshots/create post.png)
 
 5.  Bookmark page
     displays all saved posts.
@@ -95,3 +87,21 @@ the project title is called blog app it is created to practice react concepts an
     # Responsive design
 
     this app design to work on: - mobile phone - tablets - desktop screen
+
+# Screenshots
+
+### Home Page
+
+<img src="src/screenshots/home.png" width="800"/>
+
+### Blog Details Page
+
+<img src="src/screenshots/blogdetail.png" width="800"/>
+
+### Bookmarks Page
+
+<img src="src/screenshots/bookmark.png" width="800"/>
+
+### Create Post Page
+
+<img src="src/screenshots/createpost.png" width="800"/>
